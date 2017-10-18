@@ -1,5 +1,7 @@
 # sloucher
 
+http://madole.github.io/sloucher
+
 > A Vue.js project
 
 ## Build Setup
