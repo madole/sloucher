@@ -2,6 +2,8 @@
 
 http://madole.github.io/sloucher
 
+![https://i.imgur.com/sGFS42r.png](https://i.imgur.com/sGFS42r.png)
+
 > A Vue.js project
 
 ## Build Setup
